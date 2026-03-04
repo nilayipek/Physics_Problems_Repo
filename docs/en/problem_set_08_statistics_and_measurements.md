@@ -13,23 +13,18 @@ $$
 1. Calculate the arithmetic mean $\bar{x}$.
 2. Calculate the sample variance and standard deviation $s$.
 3. Calculate the uncertainty of the mean:
-
    $$
    u(\bar{x}) = \frac{s}{\sqrt{n}}
    $$
-
 4. Provide the result in the format:
-
    $$
    x = \bar{x} \pm u(\bar{x})
    $$
-
 5. Explain the difference between the standard deviation $s$ and the uncertainty of the mean $u(\bar{x})$.
 6. Assuming a normal distribution, calculate the intervals:
-      - $\bar{x} \pm s$
-   - $\bar{x} \pm 2s$
-   - $\bar{x} \pm 3s$
-   
+    - $\bar{x} \pm s$
+    - $\bar{x} \pm 2s$
+    - $\bar{x} \pm 3s$
    and interpret them as confidence levels (68–95–99).
 
 ---
@@ -109,11 +104,9 @@ t\ [\mathrm{s}] = [0.202,\ 0.287,\ 0.351,\ 0.404,\ 0.452]
 $$
 
 1. Transform the model into a linear form:
-
    $$
    h = k t^2
    $$
-
 2. Perform a linear regression of $h$ with respect to $t^2$.
 3. Determine $g$.
 4. Estimate the uncertainty $u(g)$.
@@ -146,19 +139,17 @@ x = [9.6,\ 10.5,\ 10.2,\ 9.8,\ 10.4]
 $$
 
 1. For each group, calculate:
-   - the mean,
-   - the standard deviation,
-   - the uncertainty of the mean.
+    - the mean,
+    - the standard deviation,
+    - the uncertainty of the mean.
 2. Assume that the true value is:
-
    $$
    x_{\mathrm{true}} = 10.00
    $$
-
    Compare the groups' results with the true value.
 3. Determine for each group:
-   - whether the statistical error dominates,
-   - whether a systematic error occurs.
+    - whether the statistical error dominates,
+    - whether a systematic error occurs.
 4. Propose possible causes of the systematic error (min. 2).
 5. Explain why increasing the number of measurements does not eliminate the systematic error.
 6. (Reflection) Is the result:
@@ -211,39 +202,29 @@ Application requirements:
 2. The first press of the spacebar starts the motion and the stopwatch.
 3. Subsequent presses register successive passes through the minimum.
 4. The application saves the times $t_i$ and determines the periods:
-
    $$
    T_i = t_{i+1} - t_i
    $$
-
 5. Calculate:
-   - the mean period $\bar{T}$,
-   - the standard deviation $s_T$,
-   - the uncertainty of the mean:
-
+    - the mean period $\bar{T}$,
+    - the standard deviation $s_T$,
+    - the uncertainty of the mean:
      $$
      u(T) = \frac{s_T}{\sqrt{n}}
      $$
-
 6. Determine:
-
    $$
    g = 4\pi^2 \frac{L}{\bar{T}^2}
    $$
-
 7. Apply the propagation of uncertainty:
-
    $$
    u(g)=\sqrt{\left(\frac{\partial g}{\partial L}u(L)\right)^2+
    \left(\frac{\partial g}{\partial T}u(T)\right)^2}
    $$
-
 8. Display the result:
-
    $$
    g = \hat{g} \pm u(g)
    $$
-
    and the percentage contributions of uncertainty from $L$ and from $T$.
 
 To be submitted: HTML file + report from min. 5 periods.
@@ -269,36 +250,26 @@ Application requirements:
    - $s_T$,
    - $u(T) = \frac{s_T}{\sqrt{n}}$
 5. Determine the frequency:
-
    $$
    f = \frac{1}{\bar{T}}
    $$
-
    and its uncertainty:
-
    $$
    u(f) = \frac{u(T)}{\bar{T}^2}
    $$
-
 6. Determine the spring constant:
-
    $$
    k = 4\pi^2 \frac{m}{\bar{T}^2}
    $$
-
 7. Apply the propagation of uncertainty:
-
    $$
    u(k)=\sqrt{\left(\frac{\partial k}{\partial m}u(m)\right)^2+
    \left(\frac{\partial k}{\partial T}u(T)\right)^2}
    $$
-
 8. Display the result:
-
    $$
    k = \hat{k} \pm u(k)
    $$
-
    and the percentage contributions of uncertainty from $m$ and from $T$.
 
 To be submitted: HTML file + report from min. 10 periods.

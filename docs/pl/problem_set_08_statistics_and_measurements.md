@@ -22,9 +22,9 @@ $$
    $$
 5. Wyjaśnij różnicę między odchyleniem standardowym $s$ a niepewnością średniej $u(\bar{x})$.
 6. Zakładając rozkład normalny, oblicz przedziały:
-   - $\bar{x} \pm s$
-   - $\bar{x} \pm 2s$
-   - $\bar{x} \pm 3s$
+    - $\bar{x} \pm s$
+    - $\bar{x} \pm 2s$
+    - $\bar{x} \pm 3s$
    i zinterpretuj je jako poziomy ufności (68–95–99).
 
 ---
@@ -136,26 +136,21 @@ x = [9.6,\ 10.5,\ 10.2,\ 9.8,\ 10.4]
 $$
 
 1. Dla każdej grupy oblicz:
-   - średnią,
-   - odchylenie standardowe,
-   - niepewność średniej.
-
+    - średnią,
+    - odchylenie standardowe,
+    - niepewność średniej.
 2. Załóż, że prawdziwa wartość wynosi:
    $$
    x_{\mathrm{true}} = 10.00
    $$
-
    Porównaj wyniki grup z wartością prawdziwą.
-
 3. Określ dla każdej grupy:
-   - czy dominuje błąd statystyczny,
-   - czy występuje błąd systematyczny.
-
+    - czy dominuje błąd statystyczny,
+    - czy występuje błąd systematyczny.
 4. Zaproponuj możliwe przyczyny błędu systematycznego (min. 2).
-
 5. Wyjaśnij, dlaczego zwiększenie liczby pomiarów nie usuwa błędu systematycznego.
-
 6. (Refleksja) Czy wynik:
+   
    $$
    x = 10.41 \pm 0.01
    $$
@@ -205,9 +200,9 @@ Wymagania aplikacji
    T_i = t_{i+1} - t_i
    $$
 5. Oblicz:
-   - średni okres $\bar{T}$,
-   - odchylenie standardowe $s_T$,
-   - niepewność średniej:
+    - średni okres $\bar{T}$,
+    - odchylenie standardowe $s_T$,
+    - niepewność średniej:
      $$
      u(T) = \frac{s_T}{\sqrt{n}}
      $$
