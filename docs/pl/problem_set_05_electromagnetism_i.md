@@ -39,6 +39,8 @@ Dane są dwa ładunki punktowe:
 * $+q\  \text{w punkcie}\  (-a, 0)$
 * $+2q\  \text{w punkcie}\  (a, 0)$
 
+Odpowiedz na następujące pytania:
+
 1. Wyznacz wektor pola $\vec E(0, y)$, $\vec E(x, 0)$ oraz ogólnie $\vec E(x, y)$.
 2. Wyznacz warunek, dla którego składowe $E_x = 0$, $E_y = 0$ oraz zero pola $\vec E = 0$.
 3. Oblicz pole dla: $a = 0.2\,\mathrm{m}$, $y = 0.3\,\mathrm{m}$, $q = 2\,\mu\mathrm{C}$.
@@ -69,11 +71,13 @@ Dla nich
 
 ## Zadanie 5 – Kondensator: energia i siła
 
-Kondensator płaski:
+Mamy kondensator płaski:
 
 * $S = 0.02\,\mathrm{m^2}$
 * $d = 5\,\mathrm{mm}$
 * $U = 500\,\mathrm{V}$
+
+Odpowiedz na następujące pytania:
 
 1. Oblicz pojemność.
 2. Oblicz energię zgromadzoną w kondensatorze.
@@ -100,7 +104,7 @@ Wymaganie: wizualizacja HTML z możliwością zmiany położenia ładunków.
 
 ## Zadanie 7 – Ruch w polu centralnym
 
-Pole:
+Mamy pole:
 
 $$
 E(r) = k \frac{Q}{r^2} \hat r

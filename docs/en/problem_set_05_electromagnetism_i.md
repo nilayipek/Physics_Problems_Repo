@@ -44,6 +44,8 @@ Two point charges are given:
 * $+q\  \text{at point}\  (-a, 0)$
 * $+2q\  \text{at point}\  (a, 0)$
 
+Answer the following questions:
+
 1. Determine the field vector $\vec E(0, y)$, $\vec E(x, 0)$ and generally $\vec E(x, y)$.
 2. Determine the condition for which the components $E_x = 0$, $E_y = 0$ and the zero field $\vec E = 0$.
 3. Calculate the field for: $a = 0.2\,\mathrm{m}$, $y = 0.3\,\mathrm{m}$, $q = 2\,\mu\mathrm{C}$.
@@ -74,11 +76,13 @@ For them:
 
 ## Problem 5 – Capacitor: energy and force
 
-Parallel-plate capacitor:
+We have a parallel plate capacitor:
 
 * $S = 0.02\,\mathrm{m^2}$
 * $d = 5\,\mathrm{mm}$
 * $U = 500\,\mathrm{V}$
+
+Answer the following questions:
 
 1. Calculate the capacitance.
 2. Calculate the energy stored in the capacitor.
@@ -104,7 +108,7 @@ Requirement: HTML visualization with the ability to change the positions of the 
 
 ## Problem 7 – Motion in a central field
 
-Field:
+For field:
 
 $$
 E(r) = k \frac{Q}{r^2} \hat r
