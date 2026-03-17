@@ -1,4 +1,3 @@
-<img width="500" height="525" alt="image" src="https://github.com/user-attachments/assets/ca2b49bc-bc9a-4b82-bdc3-b3c6c6d17ebe" />
 # Problem 2 – Parametric Trajectory, Velocity, and Acceleration
 
 ## Given
@@ -163,7 +162,7 @@ embedded in 3D space at height 5.
 
 Place this image in the same folder as your Markdown file and use:
 
-![Trajectory with velocity and acceleration vectors](problem2_trajectory_vectors.png)
+<img width="500" height="525" alt="image" src="https://github.com/user-attachments/assets/ca2b49bc-bc9a-4b82-bdc3-b3c6c6d17ebe" />
 
 Selected points shown on the graph:
 - t = -2
