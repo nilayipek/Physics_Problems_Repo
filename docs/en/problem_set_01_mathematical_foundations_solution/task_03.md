@@ -1,7 +1,5 @@
 # Problem 3 – Integration of Motion
 
-We solve both parts step by step.
-
 ---
 
 # A) Given velocity
