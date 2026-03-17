@@ -1,4 +1,4 @@
-<img width="751" height="790" alt="image" src="https://github.com/user-attachments/assets/ca2b49bc-bc9a-4b82-bdc3-b3c6c6d17ebe" />
+<img width="500" height="525" alt="image" src="https://github.com/user-attachments/assets/ca2b49bc-bc9a-4b82-bdc3-b3c6c6d17ebe" />
 # Problem 2 – Parametric Trajectory, Velocity, and Acceleration
 
 ## Given
